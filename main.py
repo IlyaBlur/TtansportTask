@@ -1,4 +1,3 @@
-from get_task import get_task
 from close import close
 
 from north_west import generate_initial
